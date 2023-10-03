@@ -1,4 +1,4 @@
-# Data Scientist
+# Ahzam Rasool
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
