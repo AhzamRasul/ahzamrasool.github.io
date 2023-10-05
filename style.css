@@ -1,0 +1,10 @@
+/* Style for the buttons */
+a {
+    display: inline-block;
+    background-color: #0077B5; /* LinkedIn blue */
+    color: #fff; /* White text */
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 10px; /* Add spacing between buttons */
+}
