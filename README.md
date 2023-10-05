@@ -3,8 +3,8 @@
 - Phone: +923157683515
 - LinkedIn: [linkedin.com/in/ahzamrasul](https://www.linkedin.com/in/ahzamrasul)
 - GitHub: [github.com/AhzamRasul](https://github.com/AhzamRasul)
-[![LinkedIn](/assets/img/linkedin_icon.png)](https://www.linkedin.com/in/ahzamrasul)
-[![GitHub](/assets/img/github_icon.png)](https://github.com/AhzamRasul)
+[![LinkedIn](/assets/img/linkedin_icon.png)](https://www.linkedin.com/in/ahzamrasul){: .btn}
+[![GitHub](/assets/img/github_icon.png)](https://github.com/AhzamRasul){: .btn}
 
 
 ## Summary
