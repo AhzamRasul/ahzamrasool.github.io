@@ -1,17 +1,10 @@
 # Ahzam Rasool
-- Email: ahzamrasul@outlook.com
-- Phone: +923157683515
-- LinkedIn: [linkedin.com/in/ahzamrasul](https://www.linkedin.com/in/ahzamrasul)
-- GitHub: [github.com/AhzamRasul](https://github.com/AhzamRasul)
-  ---
-css: /path/to/styles.css
----
 
-[![LinkedIn](/assets/img/linkedin_icon.png)](https://www.linkedin.com/in/ahzamrasul){: .btn}
-[![GitHub](/assets/img/github_icon.png)](https://github.com/AhzamRasul){: .btn}
-
+[![LinkedIn](/assets/img/linkedin_icon.png)](https://www.linkedin.com/in/ahzamrasul)
+[![GitHub](/assets/img/github_icon.png)](https://github.com/AhzamRasul)
 
 ## Summary
+
 Experienced Unity developer with a strong background in 3D and 2D game development, specializing in the exciting realm of Augmented Reality (AR) and Virtual Reality (VR). Over two years of hands-on experience in Unity, consistently delivering high-quality results within project timelines and budgets. Passionate about pushing the boundaries of technology and leveraging data to enhance user experiences.
 
 **Key Highlights:**
