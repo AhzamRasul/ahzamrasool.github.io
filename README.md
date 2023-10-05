@@ -1,7 +1,6 @@
-# Ahzam Rasool
 
 [![LinkedIn](/assets/img/linkedin-icon.png)](https://www.linkedin.com/in/ahzamrasul)
-[![GitHub](/assets/img/github-icon.png)](https://github.com/AhzamRasul)
+[![GitHub](/assets/img/github.png)](https://github.com/AhzamRasul)
 
 ## Summary
 
